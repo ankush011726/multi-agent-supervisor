@@ -1,4 +1,4 @@
-# Multi-Agent Supervisor System (LangGraph + Claude)
+# Multi-Agent Supervisor System
 
 A supervisor-orchestrated multi-agent system built with **LangGraph**. A supervisor
 agent routes each user query to the right specialist — a **research agent** for
